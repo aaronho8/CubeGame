@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 35
+  controlID: 87
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 41
+  controlID: 88
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 42
+  controlID: 16
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 31450
+  m_LastSelectedObjectID: 13250
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -340,9 +340,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 148.20558, y: 195.25807, z: -135.85104}
+    m_Target: {x: 72.051575, y: 23.680061, z: 66.67846}
     speed: 2
-    m_Value: {x: 148.20558, y: 195.25807, z: -135.85104}
+    m_Value: {x: 72.051575, y: 23.680061, z: 66.67846}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -388,13 +388,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.36032122, y: 0.40711617, z: -0.17888921, w: -0.8200435}
+    m_Target: {x: 0.1169299, y: -0.6664247, z: 0.10677557, w: 0.72870326}
     speed: 2
-    m_Value: {x: -0.36031264, y: 0.40710646, z: -0.17888495, w: -0.82002395}
+    m_Value: {x: 0.11691799, y: -0.6663568, z: 0.10676468, w: 0.728629}
   m_Size:
-    m_Target: 2.2165606
+    m_Target: 1.5402265
     speed: 2
-    m_Value: 2.5471873
+    m_Value: 1.5402265
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -448,9 +448,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c340000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 826bffffce77ffffb478ffff5e79ffff187afffff67affffe07bffffbe7cffffb07dffff047fffffca7fffff6880ffff9482ffff1c83ffff0884ffff9084ffffd688ffff8694ffff6a95ffffe695ffff3498ffff4899ffff92a0ffff24a1ffff30a1ffff40a5ffffeea8ffff0caaffff1eaeffffe8afffff46fbffff6afbffff72330000b6790000648e00006e8e0000
+      m_ExpandedIDs: 6afbffffaa330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -587,9 +587,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 248
+    x: 233
     y: 75
-    width: 865
+    width: 813
     height: 444
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &17
@@ -631,20 +631,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/aaronho/Documents/GitHub/RacingGame
+  m_LastProjectPath: /Users/aaronho/Documents/GitHub/DrivingSim
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec340000
-    m_LastClickedID: 13548
-    m_ExpandedIDs: 00000000ce34000000ca9a3b
+    scrollPos: {x: 0, y: 74}
+    m_SelectedIDs: d6350000
+    m_LastClickedID: 13782
+    m_ExpandedIDs: 0000000096350000983500009a3500009c3500009e35000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ce340000
+    m_ExpandedIDs: 0000000096350000983500009a3500009c3500009e350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,7 +699,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300006a710000863e0000a447000000000000b4330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -813,7 +813,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1049
+    x: 1048
     y: 75
     width: 390
     height: 735

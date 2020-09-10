@@ -6,6 +6,8 @@ public class PlayerCollide : MonoBehaviour
 
 {
     public PlayerMovement movement;
+    public SpawnManager spawnManager;
+
     
     void OnCollisionEnter (Collision collisionInfo)
     {
@@ -16,6 +18,9 @@ public class PlayerCollide : MonoBehaviour
 
         }
 
+    }
+    public void OnTriggerEnter(Collider other){
+        spawnManager.SpawnTriggerEntered();
     }
     
 }

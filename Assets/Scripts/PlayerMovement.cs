@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public float forwardForce = 2000f;
     public float sidewaysForce = 500f;
 
+
     
     // Update is called once per frame
     void FixedUpdate()
@@ -28,4 +29,6 @@ public class PlayerMovement : MonoBehaviour
             FindObjectOfType<GameManager>().EndGame();
         }
     }
+
+    
 }
