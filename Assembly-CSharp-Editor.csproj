@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{f237e667-e55d-28d2-37e5-fff45882ce31}</ProjectGuid>
+    <ProjectGuid>{ec804d2a-3ccb-1e39-6078-6002a72e8a48}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -230,7 +230,7 @@
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -587,42 +587,42 @@
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/aaronho/Documents/GitHub/DrivingSim/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/aaronho/Documents/GitHub/EndlessRunner/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{a3fa7b39-3612-a745-0ab5-6ef754ba2e7c}</Project>
+      <Project>{cd9ab30a-e62e-5ce1-4d2b-642e1651d37d}</Project>
       <Name>Assembly-CSharp</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

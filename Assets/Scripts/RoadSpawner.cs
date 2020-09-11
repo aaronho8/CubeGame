@@ -7,7 +7,7 @@ public class RoadSpawner : MonoBehaviour
 {
 
     public List<GameObject> roads;
-    private float offset = 60f;
+    private float offset = 100f;
 
 
     // Start is called before the first frame update
